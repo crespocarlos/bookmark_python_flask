@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "python.pythonPath": "C:/Users/kaka/Envs/thermos/Scripts/python.exe",
+    "python.linting.lintOnSave": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Path": "C:/Users/kaka/Envs/thermos/Scripts/pep8.exe",
+    "editor.formatOnType": true
+}

@@ -1,0 +1,23 @@
+{
+	
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "python",
+			"type": "python",
+			"request": "launch",
+			"stopOnEntry": false,
+			"program": "${workspaceRoot}/thermos/thermos.py",
+			"pythonPath": "C:/Users/kaka/Envs/thermos/Scripts/python",
+			"args": [
+				"runserver",
+				"--noreload"
+			],
+			"debugOptions": [
+				"WaitOnAbnormalExit",
+				"WaitOnNormalExit",
+				"RedirectOutput"
+			]
+		}
+	]
+}
