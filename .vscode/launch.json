@@ -7,11 +7,10 @@
 			"type": "python",
 			"request": "launch",
 			"stopOnEntry": false,
-			"program": "${workspaceRoot}/thermos/thermos.py",
+			"program": "${workspaceRoot}/manage.py",
 			"pythonPath": "C:/Users/kaka/Envs/thermos/Scripts/python",
 			"args": [
-				"runserver",
-				"--noreload"
+				"runserver"
 			],
 			"debugOptions": [
 				"WaitOnAbnormalExit",
